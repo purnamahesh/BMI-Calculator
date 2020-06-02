@@ -1,6 +1,7 @@
 # bmi_calculator
 
-BMI Calculator by Purna Mahesh
+BMI Calculator calculates **Body Mass Index (BMI)** value .
+Weight, height, age and gender are taking into consideration for calculating BMI of a person.
 
 ## Getting Started
 
